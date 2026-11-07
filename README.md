@@ -34,7 +34,7 @@
       <h2>𝙈𝘼𝙄𝙉 𝙁𝘼𝙉𝘿𝙊𝙈𝙎 :</h2>
     </td>
     <td align="right">
-      <img src="https://i.postimg.cc/wB1wSFW6/1e1436ee-original.gif" width="150">
+      <img src="https://i.postimg.cc/wB1wSFW6/1e1436ee-original.gif" width="50">
     </td>
   </tr>
 </table>
