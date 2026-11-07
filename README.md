@@ -6,7 +6,7 @@
       <h2><span style="color:#C8997D;">ABOUT ME</span></h2>
     </td>
     <td align="center">
-      <img src="https://i.postimg.cc/gcsSgzfg/Untitled694-20261014221507.png" width="80">
+      <img src="https://i.postimg.cc/bYbJZKgc/a52e7088-original.png" width="80">
     </td>
   </tr>
   <tr>
@@ -22,4 +22,6 @@
   </tr>
 </table>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=4000&pause=1000&color=F7CC25&width=435&lines=Just+you+know+brown;I+always+be+there+even+in+death!;Waiting+for+you." alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=4000&pause=1000&color=F7CC25&center=true&vCenter=true&width=435&lines=Just+you+know+brown;I+always+be+there+even+in+death!;Waiting+for+you." alt="Typing SVG" /></a>
+</p>
