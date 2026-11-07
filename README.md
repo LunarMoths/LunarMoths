@@ -1,8 +1,6 @@
 <img width="1500" height="766" alt="Image" src="https://github.com/user-attachments/assets/26797a35-d527-482c-8628-90c61fc8cc24" />
 
-
->
-    <td align="center">
+<td align="center">
       <h2><span style="color:#E0934D;">ABOUT ME</span></h2>
     </td>
     <td align="center">
