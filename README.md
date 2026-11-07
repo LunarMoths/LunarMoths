@@ -1,3 +1,5 @@
+<img alt="Static Badge" src="https://img.shields.io/badge/Bakery-yellow?style=for-the-badge&logoColor=Gold&label=Yellow&labelColor=Gold&color=%23C8997D">
+
 <img width="1500" height="766" alt="Image" src="https://github.com/user-attachments/assets/26797a35-d527-482c-8628-90c61fc8cc24" />
 
 <p align="center">
