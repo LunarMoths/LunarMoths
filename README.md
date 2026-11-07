@@ -28,6 +28,17 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td valign="middle">
+      <h2>𝙈𝘼𝙄𝙉 𝙁𝘼𝙉𝘿𝙊𝙈𝙎 :</h2>
+    </td>
+    <td align="right">
+      <img src="https://i.postimg.cc/wB1wSFW6/1e1436ee-original.gif" width="150">
+    </td>
+  </tr>
+</table>
+
 <p align="center"> <a href="https://rentry.co/CASlNO">Rentry . <a href="https://h0rr0z.atabook.org/">新book . <a</p>
 
 <p align="center">
