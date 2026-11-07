@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td align="center">
-      <h2><span style="color:#E0934D;">ABOUT ME</span></h2>
+      <h2><span style="color:#C8997D;">ABOUT ME</span></h2>
     </td>
     <td align="center">
       <img src="https://i.postimg.cc/gcsSgzfg/Untitled694-20261014221507.png" width="80">
@@ -12,17 +12,12 @@
   <tr>
     <td colspan="2">
       <p><span style="color:#E0934D;">
-        My name is Zero, I'm 15 years old and a college student.
-        I don't have any friends irl, so I'd like to meet someone online.
+        test
       </span></p>
       <p><span style="color:#E0934D;">
-        I also have social anxiety, so please be patient with me.
-        I get very nervous when talking.
-      </span></p>
+        test
       <p><span style="color:#E0934D;">
-        My native language is Russian! I find it difficult to speak English,
-        but I understand it well, so my responses may take some time.
-      </span></p>
+        test
     </td>
   </tr>
 </table>
