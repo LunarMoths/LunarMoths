@@ -30,10 +30,10 @@
 
 <table>
   <tr>
-    <td valign="middle">
+    <td valign="center">
       <h2><span style="color:#C8997D;"><p align="center">$${\color{#C8997D} MY \space FANDOM !}$$</span>:</h2>
     </td>
-    <td align="right">
+    <td align="center">
       <img src="https://i.postimg.cc/wB1wSFW6/1e1436ee-original.gif" width="50">
     </td>
   </tr>
