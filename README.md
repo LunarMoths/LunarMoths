@@ -1,5 +1,6 @@
 <img width="1500" height="766" alt="Image" src="https://github.com/user-attachments/assets/26797a35-d527-482c-8628-90c61fc8cc24" />
 
+
 <table>
   <tr>
     <td align="center">
@@ -12,12 +13,12 @@
   <tr>
     <td colspan="2">
       <p><span style="color:#E0934D;">
-        test
+        Hi! My name is Izzy, I'm 16 years old (⁠ ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡ I'm open for any interaction but please pay attention on my name statue if i am open for it...!!
       </span></p>
+      <p><span style="color:#C8997D;">
+        I'm moslty very open and honest how i felt about people... so if it harsh my apologize ok! 
       <p><span style="color:#E0934D;">
-        test
-      <p><span style="color:#E0934D;">
-        test
+        I'm very talkative when i felt comfortable sharing something with you or we have in common! So if i talk alot with you it moslty i like you personality...!!
     </td>
   </tr>
 </table>
