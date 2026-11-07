@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td align="center">
-      <h2><span style="color:#C8997D;"><p align="center">$${\color{#4e5571} about \space me!}$$</span></h2>
+      <h2><span style="color:#C8997D;"><p align="center">$${\color{#C8997D} about \space me!}$$</span></h2>
     </td>
     <td align="center">
       <img src="https://i.postimg.cc/bYbJZKgc/a52e7088-original.png" width="80">
