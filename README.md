@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td valign="middle">
-      <h2>𝙈𝘼𝙄𝙉 𝙁𝘼𝙉𝘿𝙊𝙈𝙎 :</h2>
+      <h2><span style="color:#C8997D;"><p align="center">$${\color{#C8997D} MY \space FANDOM !}$$</span>:</h2>
     </td>
     <td align="right">
       <img src="https://i.postimg.cc/wB1wSFW6/1e1436ee-original.gif" width="50">
