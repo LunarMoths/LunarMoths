@@ -41,7 +41,7 @@
 
 <p align="center"> <a href="https://rentry.co/izzymoths">Rentry . <a href="https://lunarmoth.atabook.org/?page=1">新book . <a
 href="https://lunarsmoths.straw.page/">StrawPage . <a
-href="https://pronouns.cc/@LunarMoth)/">Pronouns . <a</p>
+href="[https://pronouns.cc/@LunarMoth)/](https://prns.cc/aeplv)">Pronouns . <a</p>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=4000&pause=1000&color=F7CC25&center=true&vCenter=true&width=435&lines=Just+you+know+brown;I+always+be+there+even+in+death!;Waiting+for+you." alt="Typing SVG" /></a>
